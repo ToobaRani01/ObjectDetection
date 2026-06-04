@@ -1,0 +1,17 @@
+numpy==2.2.6            # Core dependency → numerical operations (arrays, matrices)
+torch==2.12.0           # Core dependency → deep learning framework (PyTorch)
+torchvision==0.27.0     # Core dependency → vision models, datasets, transforms
+opencv-python==4.13.0.92 # Core dependency → image/video processing, bounding boxes
+matplotlib==3.10.9      # Visualization → graphs, bounding boxes plot
+pillow==12.2.0          # Image processing → resize, crop, convert formats
+pyyaml==6.0.3           # Config management → dataset/training configs (YAML files)
+requests==2.34.2        # Download utility → models/datasets from web
+scipy==1.15.3           # Scientific computing → optimization, signal/image processing
+ultralytics==8.4.60   # YOLO26 latest utilities (detection, segmentation, classification, pose)
+tqdm==4.64.0            # Progress bars → training/data loading visualization
+scikit-image==0.19.3    # Image utilities → segmentation, transformations
+filterpy==1.4.5         # Tracking → Kalman filter for multi-frame tracking
+lap==0.5.13              # Multi-object tracking → assign detections to tracks
+hydra-core==1.2.0       # Config management → experiment setup, hyperparameters
+cvzone==1.5.6           # Easy OpenCV wrappers → hand tracking, overlays, shortcuts
+notebook==7.2.1         # Jupyter Notebook → interactive coding, visualization, experiments
