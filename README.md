@@ -8,13 +8,18 @@
  conda activate computerVission
 
 #### venv
-- python3.10 -m venv computerVission
-- source computerVission/bin/activate   # Linux/Mac
-- computerVission\Scripts\activate      # Windows
-
+```bash
+python3.10 -m venv computerVission
+ ```
+ 
+```bash
+source computerVission/bin/activate   # Linux/Mac
+computerVission\Scripts\activate      # Windows
+```
 ---
 
 ### 2. Install Requirements
+```bash
 pip install -r requirements.txt
-
+```
 ---

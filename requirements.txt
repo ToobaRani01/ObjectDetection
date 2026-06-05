@@ -9,7 +9,7 @@ requests==2.34.2        # Download utility → models/datasets from web
 scipy==1.15.3           # Scientific computing → optimization, signal/image processing
 ultralytics==8.4.60   # YOLO26 latest utilities (detection, segmentation, classification, pose)
 tqdm==4.64.0            # Progress bars → training/data loading visualization
-scikit-image==0.19.3    # Image utilities → segmentation, transformations
+scikit-image==0.25.2     # Image utilities → segmentation, transformations
 filterpy==1.4.5         # Tracking → Kalman filter for multi-frame tracking
 lap==0.5.13              # Multi-object tracking → assign detections to tracks
 hydra-core==1.2.0       # Config management → experiment setup, hyperparameters
