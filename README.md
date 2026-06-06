@@ -102,8 +102,6 @@ OBJECTDETECTION/
 ## 🎬 Output Demo
 Sample output video of the **Car Counter Project**:
 
-```markdown
-![Car Counter Demo](results\carcounter.gif)
-```
+[Watch Demo Video](results/carcounter.mp4)
 
 ---
