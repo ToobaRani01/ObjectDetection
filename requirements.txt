@@ -15,3 +15,8 @@ lap==0.5.13              # Multi-object tracking → assign detections to tracks
 hydra-core==1.2.0       # Config management → experiment setup, hyperparameters
 cvzone==1.5.6           # Easy OpenCV wrappers → hand tracking, overlays, shortcuts
 notebook==7.2.1         # Jupyter Notebook → interactive coding, visualization, experiments
+scikit-learn==1.7.2     # Machine learning utilities → metrics, clustering, dimensionality reduction
+tensorflow==2.21.0     # Alternative deep learning framework → TensorFlow (optional)
+pandas==2.3.3           # Data manipulation → CSV handling, dataframes
+flask==3.1.3         
+seaborn==0.13.2 
